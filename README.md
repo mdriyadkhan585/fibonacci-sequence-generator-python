@@ -1,6 +1,6 @@
 # Fibonacci Generator in Python 🐍
 ---
-[In Python GUI](https://github.com/your-repo/fibonacci-sequence-generator-gui)
+[In Python GUI](https://github.com/mdriyadkhan585/fibonacci-sequence-generator-gui)
 
 [In C Script](https://github.com/mdriyadkhan585/fibonacci-sequence-generator)
 
